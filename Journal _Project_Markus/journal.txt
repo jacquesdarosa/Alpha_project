@@ -1,0 +1,5 @@
+09:10:49 19-08-2022test
+09:12:20 19-08-2022/bin/python3 /home/user/Documents/DCI_CODE/test/Testing_codes_codewars_and_other_sites/aj2.py
+09:27:38 19-08-2022/bin/python3 "/home/user/Documents/DCI_CODE/test/Journal _Project_Markus/aj2.py"
+09:34:21 19-08-2022 Hi there, how is it going?
+09:36:13 19-08-2022/bin/python3 "/home/user/Documents/DCI_CODE/test/Journal _Project_Markus/aj2.py"

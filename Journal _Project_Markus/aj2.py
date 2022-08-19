@@ -24,6 +24,10 @@ def gmail_send(subject, message, from_mail, to, password):
     msg['To']      = to
     server.send_message(msg)
 
+print(Fore.LIGHTGREEN_EX+"")
+tprint("Awesome Journal", font="random")
+print(""+Style.RESET_ALL)
+
 now       = datetime.datetime.today().strftime("%H:%M:%S %d-%m-%Y")
 print(now)
 
