@@ -24,6 +24,12 @@ def gmail_send(subject, message, from_mail, to, password):
     msg['To']      = to
     server.send_message(msg)
 
+
+with open('journal.txt', 'r') as f:
+     file_contents = f.read()
+print(file_contents)
+
+
 print(Fore.LIGHTGREEN_EX+"")
 tprint("Awesome Journal", font="random")
 print(""+Style.RESET_ALL)
