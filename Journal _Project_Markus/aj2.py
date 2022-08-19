@@ -40,7 +40,7 @@ print(now)
 # display current journal
 # art
 
-new_entry = input("ENTER DIARY ENTRY HERE >>>")
+new_entry = input("ENTER DIARY ENTRY HERE >>> ")
 with open("journal.txt", "a") as file:
     file.write(now + "" + new_entry + "\n")
 
