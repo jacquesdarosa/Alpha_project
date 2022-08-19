@@ -1,0 +1,2 @@
+09:10:49 19-08-2022test
+09:12:20 19-08-2022/bin/python3 /home/user/Documents/DCI_CODE/test/Testing_codes_codewars_and_other_sites/aj2.py
